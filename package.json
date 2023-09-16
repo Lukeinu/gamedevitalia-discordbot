@@ -1,0 +1,27 @@
+{
+  "name": "warden-bot",
+  "version": "1.0.0",
+  "description": "Bot for Game Developers Italia discord server, 360° utility bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luca00IT/Warden-DiscordBot-.git"
+  },
+  "keywords": [
+    "!"
+  ],
+  "author": "MadSpace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luca00IT/Warden-DiscordBot-/issues"
+  },
+  "homepage": "https://github.com/Luca00IT/Warden-DiscordBot-#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "discord.js": "^14.13.0",
+    "openai": "^4.0.0"
+  }
+}
