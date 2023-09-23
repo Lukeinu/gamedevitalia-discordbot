@@ -1,4 +1,4 @@
-# Warden, the "Game Dev Italia" bot
+# Warden, the Discord bot.
 This is the code written for the "Warden" bot on my Discord server called "Game Dev Italia." 
 The bot was created to answer some general questions from users and use some basic commands with the prefix !
 
