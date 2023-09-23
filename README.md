@@ -1,5 +1,6 @@
 # Warden, the Discord bot.
 This is the code written for the "Warden" bot on my Discord server called "Game Dev Italia." 
+
 The bot was created to answer some general questions from users and use some basic commands with the prefix !
 
 This template is therefore usable by anyone who wants to emulate the behavior of the bot I created.
