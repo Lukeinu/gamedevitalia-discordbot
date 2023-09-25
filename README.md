@@ -21,3 +21,10 @@ You can then use this code to create your bot and start immediately with simple 
 3. Install the modules for **discord.js** by typing the commands "npm install discord.js" or "npm i discord.js"
 4. In your **Discord Developer Portal** control panel for your bot, check that "Presence IntentServer" and "Members Intent" are activated before launching your bot. This is essential since the last update of discord.js with the Intentions.
 5. Clicca sul file **Start.bat** all'interno della directory e avvia il bot
+
+## Contents
+
+- index.js is the main code file, written in JavaScript, that allows the bot to run and execute its functions
+- package-lock.json is a file used in Node.js projects to manage package dependencies.
+- package.json contains metadata about the project and information about package dependencies used in the application.
+- Start.bat/Stop.bat both contains a set of commands for Windows to speed up the process of starting the bot or stopping it
