@@ -13,7 +13,7 @@ Discord server: https://discord.gg/W2Xzauq8kr
 ## How to use it?
 
 **REQUIREMENTS**
-- node.js
+- Node.js
 - PowerShell or Command Prompt (preferably running in admin mode)
 - Code Editor/IDE that supports JavaScript
 
