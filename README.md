@@ -8,6 +8,8 @@ With each function I add in my bot I will update the code here so that it can al
 
 You can then use this code to create your bot and start immediately with simple commands.
 
+Discord server: https://discord.gg/W2Xzauq8kr
+
 ## How to use it?
 
 **REQUIREMENTS**
