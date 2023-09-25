@@ -10,9 +10,11 @@ You can then use this code to create your bot and start immediately with simple 
 
 ## How to use it?
 
-REQUIREMENTS
+**REQUIREMENTS**
 - node.js
 - Code Editor/IDE that supports JavaScript
+
+**STEP-BY-STEP GUIDE**
 
 1. Copy the files to your Discord bot project folder
 2. Open the **PowerShell** or the **Command Prompt** in your project folder and type "node -v" to check your **node.js version**
