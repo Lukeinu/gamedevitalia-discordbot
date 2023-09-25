@@ -14,6 +14,7 @@ Discord server: https://discord.gg/W2Xzauq8kr
 
 **REQUIREMENTS**
 - node.js
+- PowerShell or Command Prompt (preferably running in admin mode)
 - Code Editor/IDE that supports JavaScript
 
 **STEP-BY-STEP GUIDE**
