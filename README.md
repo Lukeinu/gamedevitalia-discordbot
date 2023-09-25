@@ -20,4 +20,4 @@ You can then use this code to create your bot and start immediately with simple 
 2. Open the **PowerShell** or the **Command Prompt** in your project folder and type "node -v" to check your **node.js version**
 3. Install the modules for **discord.js** by typing the commands "npm install discord.js" or "npm i discord.js"
 4. In your **Discord Developer Portal** control panel for your bot, check that "Presence IntentServer" and "Members Intent" are activated before launching your bot. This is essential since the last update of discord.js with the Intentions.
-5. Clicca sul file **index.bat** all'interno della directory e avvia il bot
+5. Clicca sul file **Start.bat** all'interno della directory e avvia il bot
