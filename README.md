@@ -23,6 +23,7 @@ Discord server: https://discord.gg/tNwXFEXJ2R
 3. Install the modules for **discord.js** by typing the commands "npm install discord.js" or "npm i discord.js"
 4. In your **Discord Developer Portal** control panel for your bot, check that "Presence IntentServer" and "Members Intent" are activated before launching your bot. This is essential since the last update of discord.js with the Intentions.
 5. Click on **Start.bat** to launch the bot
+6. You can use hosting services such as https://bot-hosting.net/ to make your bot online 24/7
 
 ## Contents
 
